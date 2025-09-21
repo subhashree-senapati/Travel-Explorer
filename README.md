@@ -23,7 +23,3 @@ This project is built using **HTML, CSS, and JavaScript**, and integrates the **
 
 ---
 
-## Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/Travel-Explorer.git
